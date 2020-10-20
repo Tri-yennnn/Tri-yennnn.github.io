@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Couragelogos
+title: 3yen的blog小站
 subtitle:
-description: wublub dubda
-author: Logos
+description: 我天下第一可爱
+author: 3yen
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -216,8 +216,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-    GitHub: https://github.com/Logos23333
-    School: http://www.scut.edu.cn/new
+    GitHub: https://github.com/Tri-yennnn
 
 
 # Social Links Icons
