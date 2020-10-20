@@ -4,8 +4,8 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 3yen的blog小站
-subtitle:
+title: 3333的记事本
+subtitle:2020年10月11日，33决定和logos好好相处
 description: 我天下第一可爱
 author: 3yen
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -86,7 +86,7 @@ keywords: "Jekyll, NexT"
 rss: false
 
 # Specify the date when the site was setup
-since: 2018
+since: 2020
 
 # icon between year and author @Footer
 authoricon: heart
